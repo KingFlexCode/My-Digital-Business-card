@@ -1,4 +1,4 @@
-# My Digital Business Card Project
+# Digital Business Card Project
 
 This is a simple, clean, and responsive **digital business card** built using **HTML**, **CSS**, and **Flexbox**. The goal of this project is to visually present personal or professional details in a modern, card-style layout — perfect for a portfolio, personal site, or small business.
 
@@ -19,6 +19,11 @@ This is a simple, clean, and responsive **digital business card** built using **
 * (Optional) Placeholder image or real profile picture
 
 *Note: JavaScript is not included in the initial version of this project, but it may be added in the future to support interactivity and dynamic features.*
+
+## Live Demo
+
+You can view the live, publicly hosted version of this project at:
+**[estanler-aleman-businesscard.netlify.app](https://estanler-aleman-businesscard.netlify.app)**
 
 ## File Structure
 
