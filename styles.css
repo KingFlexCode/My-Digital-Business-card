@@ -87,3 +87,8 @@ a:visited {
     background-color: ;
     border-radius: 10%;
 }
+
+.vcard-btn:hover {
+    color: #99caff;
+    text-decoration: none;
+}
