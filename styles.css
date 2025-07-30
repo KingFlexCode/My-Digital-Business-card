@@ -96,21 +96,17 @@ a:visited {
     color: rgb(0, 0, 0);
 }
 
-/* Base styles for the button */
 .vcard-btn .vcard {
   display: block;
   margin-top: 15px;
-  background-color: #99caff;   /* initial background */
-  color: #000;                 /* text stays black */
-  border: none;
+  background-color: rgb(220, 220, 220);   /* initial background */
+  color: rgb(0, 0, 0);                 /* text stays black */
   padding: 0.6em 1.2em;
-  font-size: 1em;
+  font-size: .8em;
   border-radius: 10%;
   cursor: pointer;
 }
 
-/* On hover **the button itself**, swap the background */
 .vcard-btn .vcard:hover {
   background-color: rgb(242, 255, 0);  /* your yellow */
-  /* no text-decoration or color change needed */
 }
