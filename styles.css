@@ -85,7 +85,6 @@ a:visited {
     display: block;
     margin-top: 15px;
     border-radius: 10%;
-    background-color: rgb(12, 12, 12);
 }
 
 .vcard-btn:hover button {
@@ -94,5 +93,5 @@ a:visited {
 }
 
 .vcard {
-    color: #99caff;
+    color: rgb(0, 0, 0);
 }
