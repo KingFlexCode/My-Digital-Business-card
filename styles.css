@@ -79,3 +79,8 @@ a {
 a:visited {
     color: #99caff;
 }
+
+.vcard-btn {
+    display: block;
+    margin-top: 5px;
+}
