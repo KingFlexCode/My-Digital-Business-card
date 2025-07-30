@@ -81,8 +81,25 @@ a:visited {
     color: #99caff;
 }
 
+.vcard-btn {
+    display: block;
+    margin-top: 15px;
+    border-radius: 10%;
+}
+
+.vcard-btn:hover button {
+    background-color: rgb(242, 255, 0);
+    text-decoration: none;
+}
+
+.vcard {
+    color: rgb(0, 0, 0);
+}
+
 /* Base styles for the button */
 .vcard-btn .vcard {
+  display: block;
+  margin-top: 15px;
   background-color: #99caff;   /* initial background */
   color: #000;                 /* text stays black */
   border: none;
@@ -90,7 +107,6 @@ a:visited {
   font-size: 1em;
   border-radius: 10%;
   cursor: pointer;
-  transition: background-color 0.2s ease;
 }
 
 /* On hover **the button itself**, swap the background */
