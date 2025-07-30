@@ -1,6 +1,6 @@
 body {
     display: flex;
-    justify-content: center;
+    justify-content: column;
     align-items: center;
     background-image: url(./Images/brian-patrick.jpg);
     background-size: cover;
