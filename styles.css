@@ -92,3 +92,7 @@ a:visited {
     background-color: rgb(242, 255, 0);
     text-decoration: none;
 }
+
+.vcard {
+    color: #99caff;
+}
