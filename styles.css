@@ -81,14 +81,14 @@ a:visited {
     color: #99caff;
 }
 
-.vcard-btn button{
+.vcard-btn {
     display: block;
     margin-top: 15px;
     background-color: ;
     border-radius: 10%;
 }
 
-.vcard:hover {
+.vcard:hover button{
     color: #99caff;
     text-decoration: none;
 }
