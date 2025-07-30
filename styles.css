@@ -11,28 +11,14 @@ body {
 
 /* -- Business Card styles -- */
 
-.card-box {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 35px;
-    padding: 40px;
-    width: 550px;
-    height: 250px;
-    border: rgb(220, 220, 220) 2px solid;
-    border-radius: 1%;
-    background-color: rgb(0, 0, 0);
-    background-image: url(./Images/hans-isaacson-mSBFTjC7uPg-unsplash.jpg);
-    background-size: cover;
-    box-shadow: #000000 0px 0px 30px 10px;
-}
+
 
 .profile-pic {
     width: 200px;
     height: 200px;
     border: 2px solid rgb(220, 220, 220);
     border-radius: 1%;
-
+    background-color: rgb(220, 220, 220);
     object-fit: cover;}
 
 /* -- Business Card Text styles -- */
