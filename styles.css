@@ -3,10 +3,11 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(./Images/main-background.jpg);
+    background-image: url(./Images/bg-main.jpg);
     background-size: cover;
+    background-color: rgb(220, 220, 220);
     padding: 20px;
-    margin-top: 300px;
+
 }
 
 /* -- Business Card styles -- */
@@ -25,6 +26,7 @@ body {
     background-image: url(./Images/background-image.jpg);
     background-size: cover;
     box-shadow: #000000 0px 0px 30px 10px;
+    margin-top: 300px;
 }
 
 
