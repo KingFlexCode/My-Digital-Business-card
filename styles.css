@@ -3,7 +3,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(./Images/brian-patrick.jpg);
+    background-image: url(./Images/main-background.jpg);
     background-size: cover;
     background-color: rgb(220, 220, 220);
     padding: 20px;
