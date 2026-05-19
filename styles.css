@@ -5,7 +5,6 @@ body {
     align-items: center;
     background-image: url(./Images/main-background.jpg);
     background-size: cover;
-    background-color: rgb(220, 220, 220);
     padding: 20px;
     margin-top: 300px;
 }
