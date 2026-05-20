@@ -1,13 +1,18 @@
 body {
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(./Images/bg-main.jpg);
-    background-size: cover;
-    background-color: rgb(220, 220, 220);
-    padding: 20px;
 
+    background-image: url("./Images/main-background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    padding: 20px;
+    margin: 0;
+    box-sizing: border-box;
 }
 
 /* -- Business Card styles -- */
