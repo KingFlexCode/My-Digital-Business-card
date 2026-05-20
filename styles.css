@@ -1,11 +1,11 @@
-body {
+html, body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 
-    background-image: url("./Images/bg-main.jpg");
+    background-image: url(./Images/bg-main.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
