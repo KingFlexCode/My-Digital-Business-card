@@ -1,4 +1,4 @@
-html, body {
+body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -31,7 +31,6 @@ html, body {
     background-image: url(./Images/background-image.jpg);
     background-size: cover;
     box-shadow: #000000 0px 0px 30px 10px;
-    margin-top: 300px;
 }
 
 
